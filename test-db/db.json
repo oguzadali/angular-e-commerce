@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2300,
+      "description": "Lenovo Legion",
+      "imageUrl": "https://images.pexels.com/photos/3861964/pexels-photo-3861964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "categoryId": "2"
+    },
+    {
+      "id": 2,
+      "name": "LaptopA",
+      "price": 2300,
+      "description": "Lenovo Legion",
+      "imageUrl": "https://images.pexels.com/photos/3861964/pexels-photo-3861964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "categoryId": "1"
+    },
+    {
+      "id": 3,
+      "name": "KLaptop",
+      "price": 2300,
+      "description": "Lenovo Legion",
+      "imageUrl": "https://images.pexels.com/photos/3861964/pexels-photo-3861964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "LaptopU",
+      "price": 2300,
+      "description": "Lenovo Legion",
+      "imageUrl": "https://images.pexels.com/photos/3861964/pexels-photo-3861964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "categoryId": "4"
+    },
+    {
+      "name": "İphone X",
+      "description": "İphone SE IOS Phone",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapersite.com%2Fimages%2Fwallpapers%2Fiphone-x-2560x1440-iphone-10-hd-11145.png&f=1&nofb=1",
+      "price": "6000",
+      "categoryId": "4",
+      "id": 5
+    },
+    {
+      "name": "İphone X-T",
+      "description": "İphone SE IOS Phone",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapersite.com%2Fimages%2Fwallpapers%2Fiphone-x-2560x1440-iphone-10-hd-11145.png&f=1&nofb=1",
+      "price": "5000",
+      "id": 6
+    },
+    {
+      "name": "Asus Zen",
+      "description": "Android Phone",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Fg1D4-USQhGo7uaO3HAnrwHaHa%26pid%3DApi&f=1",
+      "price": "4200",
+      "categoryId": "4",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Computer"
+    },
+    {
+      "id": 2,
+      "name": "Electronics"
+    },
+    {
+      "id": 3,
+      "name": "Devices"
+    },
+    {
+      "id": 4,
+      "name": "Phones"
+    }
+  ]
+}

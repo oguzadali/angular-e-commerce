@@ -1,0 +1,9 @@
+.card-img {
+  width: 100% !important;
+  height: 200px !important;
+  object-fit: cover;
+}
+
+.productbox {
+  padding: 15px;
+}
